@@ -1,0 +1,9 @@
+{
+	"name": "lazyload",
+	"authors": [
+	"tombola Ltd"
+	],
+	"main": "lazyload.js",
+	"license": "MIT",
+	"private": true
+}
